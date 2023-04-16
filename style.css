@@ -1,0 +1,7 @@
+body{
+    background: linear-gradient(to right top, red, orange, yellow, green ,blue, purple, pink, brown, white, black);
+}
+canvas{
+    border: ridge;
+    border-width: 30;
+}
